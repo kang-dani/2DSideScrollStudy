@@ -89,16 +89,9 @@ AnimationClip:
   m_HasMotionFloatCurves: 0
   m_Events:
   - time: 0.083333336
-    functionName: 
-    data: 
-    objectReferenceParameter: {fileID: 1120369429361536294, guid: 3590b91b4603b465dbb4216d601bff33, type: 3}
-    floatParameter: 0
-    intParameter: 0
-    messageOptions: 0
-  - time: 0.083333336
     functionName: AttSlash
     data: 
-    objectReferenceParameter: {fileID: 0}
+    objectReferenceParameter: {fileID: 11500000, guid: 10abdf075d261974da43a0b3aa0536e4, type: 3}
     floatParameter: 0
     intParameter: 0
     messageOptions: 0
